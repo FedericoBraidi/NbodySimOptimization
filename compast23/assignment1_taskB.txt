@@ -1,0 +1,34 @@
+1.
+hash: 3296295cdbf41fa79caa8fbaf9d5267ee5e6b657
+date: Tue Oct 24 00:33:23 2023 +0200
+2.
+hash: 3862e42273c86b71b69373fc47e9d0e8761ebb0c (ca23_remote/main)
+Date:   Sat Oct 28 10:40:05 2023 +0200
+
+
+
+
+############ Modifying the file to create merger conflict. #############
+
+- Analyze the properties of BH.
+
+########## Modified assignment1_taskB.txt in assignment1_taskC for creating conflict ###########
+message in  the branch:
+
+ Analyze the properties of black holes, where even light fears to tread!
+
+I removed the conflict lines to keep both the changes in the main and the branch for merging
+
+### Task F ###
+
+main message : How do astronomers organize a party?
+They simply "planet"! 
+
+=======
+### Task F ###
+
+branch message : How do astronomers organize a party?
+They simply "plan-et"! 
+
+### Task F yet again ###
+main message: conflicts never end.
